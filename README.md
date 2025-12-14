@@ -1,1 +1,1 @@
-#Distributed Jog Queue
+# Distributed Job Queue
